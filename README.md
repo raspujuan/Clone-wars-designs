@@ -3,7 +3,7 @@ Design of the mugs, t-shirts and stickers of Clone Wars
 
 ## First version of the designs 
 
-*focused to the 3d Printers event in León (Spain)
+⋅⋅*focused to the 3d Printers event in León (Spain)
 
 ### 2 files in PDF
 
@@ -14,9 +14,9 @@ Design of the mugs, t-shirts and stickers of Clone Wars
 
 You are free to:
 
-*Share — copy and redistribute the material in any medium or format
-*Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-*The licensor cannot revoke these freedoms as long as you follow the license terms.
+⋅⋅*Share — copy and redistribute the material in any medium or format
+⋅⋅*Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+⋅⋅*The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 ## About the new uses
 
